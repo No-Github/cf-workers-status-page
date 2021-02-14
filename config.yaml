@@ -30,8 +30,8 @@ monitors:
     expectStatus: 200
 
   - id: ffffffff0x.com
-    name: www.ffffffff0x.com
-    url: 'https://www.ffffffff0x.com'
+    name: ffffffff0x.com
+    url: 'https://ffffffff0x.com'
     method: GET
     expectStatus: 200
 
